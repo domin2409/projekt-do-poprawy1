@@ -1,0 +1,74 @@
+/*general*/
+
+body {
+    margin: 0;
+    font-family: 'lato', 'sans-serif';
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/*menu*/
+
+nav#menu {
+    display: inline-block;
+    padding: 25px;
+    list-style: none;
+}
+
+#menu {
+    text-align: center;
+    background: #222;
+    width: 100%;
+}
+
+#menu .menu-item {
+    display: inline-block;
+    padding: 25px;
+    list-style: none;
+
+}
+
+
+
+
+
+
+
+
+
+/*header*/
+
+#header {
+    position: relative;
+}
+
+header#header img {
+    width: 100%;
+}
+
+header#header > h1 {
+    position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+    color: #fff;
+    text-transform: uppercase
+}
+
+
+
+
+
+
+
+
+
+footer#footer {
+    background-color: black;
+}
